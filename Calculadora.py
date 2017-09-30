@@ -1,5 +1,5 @@
 __author__ = 'Wilmer Fabian Triana'
 
 class Calculadora:
-    def sumar(cadena):
-        pass
+    def sumar(self, cadena):
+        return 0
